@@ -1,4 +1,4 @@
-# kaggle_project
+# Detecting Fake Import Declarations
 The goal of this project is to detect fake import declarations from the import declaration dataset provided by Korea Customs Service.
 
 I implemented a machine learning model that predicts fake import declarations based on import documents.
